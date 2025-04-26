@@ -23,6 +23,11 @@ builder.Services.AddAuthorization();
 
 var app = builder.Build();
 
+app.UseAuthentication();
+app.UseAuthorization();
+
+app.MapAuthEndpoints(secret);
+
 app.MapClienteEndPoints();
 
 app.Run();

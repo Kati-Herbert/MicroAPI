@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MicroAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c0ba5b1d351476775a0e3d79b9928145074b6fc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("MicroAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MicroAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

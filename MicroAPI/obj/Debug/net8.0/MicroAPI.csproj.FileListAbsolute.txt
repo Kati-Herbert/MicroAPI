@@ -23,3 +23,14 @@ C:\Users\katie\source\repos\MicroAPI\MicroAPI\obj\Debug\net8.0\refint\MicroAPI.d
 C:\Users\katie\source\repos\MicroAPI\MicroAPI\obj\Debug\net8.0\MicroAPI.pdb
 C:\Users\katie\source\repos\MicroAPI\MicroAPI\obj\Debug\net8.0\MicroAPI.genruntimeconfig.cache
 C:\Users\katie\source\repos\MicroAPI\MicroAPI\obj\Debug\net8.0\ref\MicroAPI.dll
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\obj\Debug\net8.0\MicroAPI.csproj.AssemblyReference.cache
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\obj\Debug\net8.0\MicroAPI.sourcelink.json
+C:\Users\katie\source\repos\MicroAPI\MicroAPI\obj\Debug\net8.0\MicroAPI.csproj.Up2Date
